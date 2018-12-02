@@ -1,0 +1,9 @@
+
+E_SUCCEEDED = 0
+E_FAILED = -1
+E_UNSUPPORTED = -2
+E_INVALID_MODE = -3
+
+DEBUG = False #True
+PRINT_G04 = False
+DPI = 0.0
